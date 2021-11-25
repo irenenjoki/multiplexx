@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="multiplexx_viewPager" type="id" />
+    <item name="main_recycler" type="id" />
+    <item name="item_recycler" type="id" />
+    <item name="toolbar" type="id" />
+    <item name="item_image" type="id">image</item>
+    <item name="item_category" type="id">item category</item>
+</resources>

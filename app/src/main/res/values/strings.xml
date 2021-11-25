@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">multiplex</string>
+    <string name="home">home</string>
+    <string name="movie">movie</string>
+    <string name="series">series</string>
+
+    <string name="free_guy">free guy</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+
+</resources>
